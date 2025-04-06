@@ -57,8 +57,8 @@ Follow these steps to set up and run the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SherifMokhtar21/CloudDevOpsProject.git
-cd CloudDevOpsProject/FinalProjectCode
+git clone https://github.com/SherifMokhtar21/CloudDevOps_project.git
+cd CloudDevOps_project
 ```
 
 ### 2. Infrastructure Provisioning with Terraform
