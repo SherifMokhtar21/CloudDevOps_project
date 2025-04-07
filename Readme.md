@@ -22,8 +22,7 @@ Welcome to the **CloudDevOpsProject**! This project demonstrates a comprehensive
    - [6. Code Quality Analysis with SonarQube](#6-code-quality-analysis-with-sonarqube)
 4. [Usage](#usage)
 5. [Project Structure](#project-structure)
-6. [Contributing](#contributing)
-7. [Contact](#contact)
+6. [Contact](#contact)
 
 ## Project Overview
 
@@ -146,6 +145,7 @@ CloudDevOpsProject/
 ├── web-app
 ├── Jenkins 
 ├── Terraform
+└── Kubernetes
 └── README.md
 ```
 
